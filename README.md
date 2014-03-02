@@ -1,5 +1,14 @@
 # DOMinate
-A **DOM building utility** and **Template engine** build upon **JsonML** with syntax sugar.
+
+---
+
+**THIS PROGRAM IS DEPRECATED AND NO LONGER ACTIVELY MAINTAINED.**
+
+**Check out its successor [Shaven](http://adriansieber.com/shaven).**
+
+---
+
+A DOM building utility and Template engine build upon JsonML with syntax sugar.
 
 
 ```javascript
