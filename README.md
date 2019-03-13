@@ -4,7 +4,7 @@
 
 **THIS PROGRAM IS DEPRECATED AND NO LONGER ACTIVELY MAINTAINED.**
 
-**Check out its successor [Shaven](http://adriansieber.com/shaven).**
+**Check out its successor [Shaven](http://shaven.ad-si.com/) instead.**
 
 ---
 
